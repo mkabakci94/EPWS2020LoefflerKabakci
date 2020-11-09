@@ -4,7 +4,7 @@
 
 ## **Nutzungsproblem**
 
-Die Anzahl der Muslimischen Bevölkerung in Deutschland steigt immer weiter hoch1. Es gibt hierbei unterschiedliche Gruppen wie Flüchtlinge, Asyl oder auch Menschen, die hier geboren und aufgewachsen sind mit Migrationshintergrund. Das Problem für muslimische Bevölkerungsgruppen ist in Deutschland der Konsum von Lebensmitteln, die ihren Essensvorschriften entsprechen müssen. 
+Die Anzahl der Muslimischen Bevölkerung in Deutschland steigt immer weiter[^1]. Es gibt hierbei unterschiedliche Gruppen wie Flüchtlinge, Asyl oder auch Menschen, die hier geboren und aufgewachsen sind mit Migrationshintergrund. Das Problem für muslimische Bevölkerungsgruppen ist in Deutschland der Konsum von Lebensmitteln, die ihren Essensvorschriften entsprechen müssen. 
 
 ## **Zielsetzung**
 
@@ -17,7 +17,7 @@ Die verteilte Anwendung liegt hierbei, dass eine Umgebungskarte erstellt werden 
 
 ## **Gesellschaftliche/wirtschaftliche Relevanz**
 
-Das System unterstützt den Anwender dabei halal Produkte zu finden und zu konsumieren. Im muslimischen Umkreis spielt die halale Ernährung eine große Rolle.  „Während in 2010 in Deutschland 5,8 % eine muslimische Religionszugehörigkeit angeben, soll dieser Anteil bis zum Jahr 2050 auf ca. 10 % ansteigen (The Pew Forum on Religion & Public Life, 2017)2.“
+Das System unterstützt den Anwender dabei halal Produkte zu finden und zu konsumieren. Im muslimischen Umkreis spielt die halale Ernährung eine große Rolle.  „Während in 2010 in Deutschland 5,8 % eine muslimische Religionszugehörigkeit angeben, soll dieser Anteil bis zum Jahr 2050 auf ca. 10 % ansteigen (The Pew Forum on Religion & Public Life, 2017)[^2].“
 Der gesellschaftliche Aspekt bezieht sich darauf, den Anwendern der App anzuzeigen, in welchen Geschäften er einkaufen kann bzw. in welchen Restaurants er essen kann.
 
 
