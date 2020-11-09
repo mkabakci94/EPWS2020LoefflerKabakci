@@ -8,7 +8,7 @@ Die Anzahl der Muslimischen Bevölkerung in Deutschland steigt immer weiter hoch
 
 ## **Zielsetzung**
 
-Es soll ein technisches System entwickelt werden, welches den muslimischen Mitbürgern helfen soll, Lebensmittel die nach ihren Essensvorschriften entsprechen. 
+Es soll ein technisches System entwickelt werden, welches den muslimischen Mitbürgern helfen soll, Lebensmittel die nach ihren Essensvorschriften entsprechen leichter und schneller zu finden. 
 
 
 ## **Verteilte Anwendung**
