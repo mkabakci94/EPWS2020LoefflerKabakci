@@ -4,7 +4,7 @@
 
 ## **Nutzungsproblem**
 
-Die Anzahl der Muslimischen Bevölkerung in Deutschland steigt immer weiter[^1]. Es gibt hierbei unterschiedliche Gruppen wie Flüchtlinge, Asyl oder auch Menschen, die hier geboren und aufgewachsen sind mit Migrationshintergrund. Das Problem für muslimische Bevölkerungsgruppen ist in Deutschland der Konsum von Lebensmitteln, die ihren Essensvorschriften entsprechen müssen. 
+Die Anzahl der Muslimischen Bevölkerung in Deutschland steigt[^1]. Es gibt hierbei unterschiedliche Gruppen wie Flüchtlinge, Asyl oder auch Menschen, die hier geboren und aufgewachsen sind mit Migrationshintergrund. Das Problem für muslimische Bevölkerungsgruppen ist in Deutschland der Konsum von Lebensmitteln, die ihren Essensvorschriften entsprechen müssen. 
 
 ## **Zielsetzung**
 
