@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Details">
+
+    <TextView
+        android:id="@+id/ddid"
+        android:layout_width="268dp"
+        android:layout_height="47dp"
+        android:text="Doy Doy Restaurant"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="25dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="165dp"
+        android:layout_height="89dp"
+        app:srcCompat="@drawable/doydoy"
+        tools:layout_editor_absoluteX="242dp"
+        tools:layout_editor_absoluteY="25dp" />
+
+    <TextView
+        android:id="@+id/adresseid"
+        android:layout_width="178dp"
+        android:layout_height="57dp"
+        android:text=" Keupstraße 40, 51063 Köln"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="72dp" />
+
+    <ImageView
+        android:id="@+id/adanaid"
+        android:layout_width="418dp"
+        android:layout_height="296dp"
+        app:srcCompat="@drawable/adana"
+        tools:layout_editor_absoluteX="-11dp"
+        tools:layout_editor_absoluteY="453dp" />
+
+    <TextView
+        android:id="@+id/beschreibungid"
+        android:layout_width="226dp"
+        android:layout_height="75dp"
+        android:layout_weight="1"
+        android:text="Das Lokal bietet traditionell türkische Kost in mehreren Räumen mit Steindekor-Wänden und verzierten Türbogen. "
+        android:textSize="14sp"
+        android:textStyle="normal|bold|italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="179dp" />
+
+    <TextView
+        android:id="@+id/telid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefon: 0221 9224347"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="139dp" />
+
+    <TextView
+        android:id="@+id/infoid"
+        android:layout_width="339dp"
+        android:layout_height="62dp"
+        android:text="Öffnungszeiten: Montag bis Samstag 9 - 23:00 Uhr  Reservierungen: buyukharran-doydoy.de  Menü: buyukharran-doydoy.de "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="255dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

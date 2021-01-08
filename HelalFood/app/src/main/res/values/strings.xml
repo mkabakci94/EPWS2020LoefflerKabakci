@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HelalFood</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="favoriten">Favoriten</string>
+    <string name="karten">Karten</string>
+    <string name="gesch_fte">Geschaefte</string>
+    <string name="todo">TODO</string>
+    <color name="primary">#ffffa93a</color>
+    <color name="primary_dark">#ffcf8630</color>
+    <color name="accent">#ffffa93a</color>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnfavo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/favoriten"
+        app:backgroundTint="#000000"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="75dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnkarten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginLeft="115dp"
+        android:text="@string/karten"
+        app:backgroundTint="#000000"
+        app:layout_constraintStart_toStartOf="@+id/btnfavo"
+        tools:layout_editor_absoluteY="75dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btngesch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="92dp"
+        android:layout_marginLeft="92dp"
+        android:text="@string/gesch_fte"
+        app:backgroundTint="#000000"
+        app:layout_constraintStart_toStartOf="@+id/btnkarten"
+        tools:layout_editor_absoluteY="75dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/kartenimage"
+        android:layout_width="424dp"
+        android:layout_height="414dp"
+        app:srcCompat="@drawable/maps"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="147dp"
+        tools:ignore="MissingConstraints"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:id="@+id/essenimage"
+        android:layout_width="411dp"
+        android:layout_height="286dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/essen"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="561dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+

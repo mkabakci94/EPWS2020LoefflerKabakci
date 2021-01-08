@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".katalog">
+
+    <Button
+        android:id="@+id/essenid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Essen"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="120dp" />
+
+    <Button
+        android:id="@+id/trinkenid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="trinken"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="224dp" />
+
+    <Button
+        android:id="@+id/suesswarenid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="süßwaren"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="320dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
